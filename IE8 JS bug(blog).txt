@@ -1,0 +1,15 @@
+＊IE8打開js選項
+1.
+工具>網際網路選項>安全性>自訂等級
+下載>>自動提示下載檔案>>設定為[啟用]
+指令碼處理>>Active scripting>>設定為[啟用]
+
+2.IE8清除瀏覽紀錄，關掉重開
+
+
+3.如果還是不行的話，將"工具>網際網路選項>安全性>自訂等級"
+中的"重設自訂設定"重設為高，被擋掉的東西應該都會被允許
+
+
+https://stackoverflow.com/questions/15127040/respond-js-not-working-in-ie-8
+http://www.blueshop.com.tw/board/FUM20041006161839LRJ/BRD20091225161616A04.html
